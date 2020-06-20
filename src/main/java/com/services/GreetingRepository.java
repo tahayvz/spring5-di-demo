@@ -1,4 +1,4 @@
-package com.springframework.services;
+package com.services;
 
 public interface GreetingRepository {
 

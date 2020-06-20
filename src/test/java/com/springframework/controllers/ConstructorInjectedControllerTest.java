@@ -1,6 +1,6 @@
 package com.springframework.controllers;
 
-import com.springframework.services.GreetingServiceImpl;
+import com.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 
