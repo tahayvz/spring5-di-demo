@@ -1,6 +1,5 @@
 package com.springframework.services;
 
-
 public class PrimarySpanishGreetingService implements GreetingService {
 
     private GreetingRepository greetingRepository;
